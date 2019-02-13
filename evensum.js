@@ -12,4 +12,4 @@ let evenSum = (arr) => {
   return sum;
 };
 
-console.log(evenSum(arr));
+module.exports = { evenSum };
