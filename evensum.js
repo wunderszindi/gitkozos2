@@ -1,4 +1,4 @@
-let myMethod = require('./generatearray');
+let myMethod = require('./generateArray');
 let arr = myMethod.generatearray();
 
 let evenSum = (arr) => {
